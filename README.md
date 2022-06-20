@@ -19,15 +19,16 @@ This website helps **Bundelkhand University Computer science students** by keepi
   <img src="readme_assets/Paperzone_landingpage.png" width="325" />
   <img src="readme_assets/Paperzone_featuresection.png" width="325" height=210 /> 
   <img src="readme_assets/Paperzone_contributionsection.png" width="325" height=210 />
+  <img src="readme_assets/Paperzone_footer.png" width="325" height=210 />
 </p>
 <br>
 <p float="left">
-  <img src="readme_assets/Paperzone_footer.png" width="325" height=210 />
   <img src="readme_assets/Resourcepage.png" width="325" height=210 /> 
   <img src="readme_assets/Semesterpage.png" width="325" height=210 />
+  <img src="readme_assets/contributiopage.png" width="325" height=210 />
 </p>
 <br>
-<img src="readme_assets/contributiopage.png" width="325" height=210 />
+
 
 ## Step 3: Website overview
 ```
