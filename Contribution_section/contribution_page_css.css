@@ -1,0 +1,43 @@
+body {
+  font-family: "Montserrat";
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  background-color: #117fc5;
+}
+
+.row {
+  padding-top: 25px;
+  padding-left: 180px;
+  padding-right: 100px;
+  padding-bottom: 25px;
+}
+
+.cont1 {
+  background: rgba(255, 255, 255, 0.849);
+  box-shadow: 0 10px 32px 0 rgba(175, 176, 177, 0.37);
+  backdrop-filter: blur(1 px);
+  -webkit-backdrop-filter: blur(1 px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  text-align: left;
+}
+
+.inner_cont h1 {
+  font-size: 45px;
+}
+
+.inner_cont {
+  padding-top: 90px;
+  padding-bottom: 70px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.image-paper {
+  height: 25rem;
+  width: 35rem;
+  border-radius: 10px;
+}

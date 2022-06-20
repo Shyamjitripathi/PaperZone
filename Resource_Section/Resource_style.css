@@ -1,0 +1,192 @@
+body {
+  font-family: "Outfit", sans-serif;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Outfit", sans-serif;
+  font-size: 1.75rem;
+  line-height: 1.5;
+}
+
+#header-resources {
+  text-align: center;
+  background-color: #393e46;
+  color: #fff;
+  background-image: url("/css/Resourcepage_title_back.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.heading-main {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+.pad-row {
+  margin: 0%;
+  padding: 0%;
+}
+
+.one-sem {
+  padding: 3.5% 2.5%;
+  margin: 0% 0%;
+}
+
+.second-sem {
+  padding: 3.5% 2.5%;
+  margin: 0% 0%;
+}
+
+.third-sem {
+  padding: 3.5% 2.5%;
+  margin: 0% 0%;
+}
+
+.four-sem {
+  padding: 3.5% 2.5%;
+  margin: 0% 0%;
+}
+
+.five-sem {
+  padding: 3.5% 2.5%;
+  margin: 0% 0%;
+}
+
+.six-sem {
+  padding: 3.5% 2.5%;
+  margin: 0% 0%;
+}
+
+.seven-sem {
+  padding: 3.5% 12.5% 5% 12.5%;
+  margin: 0% 0%;
+}
+
+.eight-sem {
+  padding: 3.5% 12.5% 5% 12.5%;
+  margin: 0% 0%;
+}
+
+.img-sem {
+  width: 22rem;
+  height: 10rem;
+}
+
+.card-design {
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width: 22rem;
+}
+
+/* Media query for screen size < 700px */
+
+@media only screen and (max-width: 700px) {
+  h1 {
+    font-size: 3rem;
+  }
+
+  h3 {
+    font-size: 1.8rem;
+  }
+
+  .card-body a {
+    font-size: 0.7rem;
+  }
+
+  .one-sem {
+    padding: 3.5% 7.5%;
+    margin: 0% 0%;
+  }
+
+  .second-sem {
+    padding: 3.5% 7.5%;
+    margin: 0% 0%;
+  }
+
+  .third-sem {
+    padding: 3.5% 7.5%;
+    margin: 0% 0%;
+  }
+
+  .four-sem {
+    padding: 3.5% 7.5%;
+    margin: 0% 0%;
+  }
+
+  .five-sem {
+    padding: 3.5% 7.5%;
+    margin: 0% 0%;
+  }
+
+  .six-sem {
+    padding: 3.5% 7.5%;
+    margin: 0% 0%;
+  }
+
+  .seven-sem {
+    padding: 3.5% 7.5%;
+    margin: 0% 0%;
+  }
+
+  .eight-sem {
+    padding: 3.5% 7.5% 10% 7.5%;
+    margin: 0% 0%;
+  }
+
+  .img-sem {
+    width: 18rem;
+    height: 10rem;
+  }
+
+  .card-design {
+    width: 18rem;
+  }
+
+  .button-size {
+    font-size: 1%;
+  }
+}
+
+/* Footer section style */
+
+#footer-resources {
+  background-color: #dddddd;
+  color: black;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  font-weight: bolder;
+}
+
+.per-footer {
+  background-color: #424642;
+  color: white;
+  font-weight: 500;
+  font-weight: bolder;
+}
+
+.footer_theme {
+  background-color: #ffdaaf;
+  font-weight: bolder;
+}
+
+.container1 {
+  background-color: #fff8f1;
+  font-weight: bolder;
+}

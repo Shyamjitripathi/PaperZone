@@ -1,0 +1,21 @@
+/*semesters CSS */
+
+.sem-header {
+    background-color: #325288;
+    color: #fff;
+    text-align: center;
+  }
+  
+  #sem-paper {
+    background-color: #f4eee8;
+    color: rgb(0, 0, 0);
+    text-align: left;
+  }
+  
+  #sem-cr {
+    background-color: #f5cebe;
+    color: rgb(0, 0, 0);
+    text-align: left;
+  }
+
+  
