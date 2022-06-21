@@ -4,7 +4,7 @@
 <br>
 During my college time finding resources for exam prepartion was a hectic task. So, I decided to build a website which will
 act as a central system for providing helpful resources.<br>
-This website helps **Bundelkhand University Computer science students** by keeping all necessary resources like **"Question papers, Youtube playlist, Notes, Book PDf, Lab Manual and Short notes.**
+This website helps **Bundelkhand University Computer science students** by keeping all necessary resource like **"Question papers, Youtube playlist, Notes, Book PDf, Lab Manual and Short notes.**
 
 ## Step 1: Tech Stack
 ```
