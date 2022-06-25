@@ -50,6 +50,6 @@ This website helps **Bundelkhand University Computer science students** by keepi
 
 ## Features of site
 ```
-1. Responsive experience throught major screen size.
+1. Responsive experience throught-out major screen size.
 2. Major portion of website is sketched-> then designed-> then coded
 3. Hosted on Netlify
